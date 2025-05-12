@@ -1,0 +1,10 @@
+{
+  "name": "kenyan-political-blog",
+  "version": "1.0.0",
+  "description": "A blog website about the Kenyan Political Landscape.",
+  "author": "Jesse Thuranira",
+  "license": "MIT",
+  "scripts": {
+    "start": "open src/index.html"
+  }
+}
